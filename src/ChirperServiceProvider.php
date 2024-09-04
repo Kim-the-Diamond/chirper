@@ -2,9 +2,9 @@
 
 namespace KimSpeer\Chirper;
 
+use KimSpeer\Chirper\Commands\ChirperCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use KimSpeer\Chirper\Commands\ChirperCommand;
 
 class ChirperServiceProvider extends PackageServiceProvider
 {
