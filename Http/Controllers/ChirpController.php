@@ -2,8 +2,8 @@
 
 namespace KimSpeer\Chirper\Http\Controllers;
 
-use Illuminate\View\View;
 use Illuminate\Routing\Controller;
+use Illuminate\View\View;
 
 class ChirpController extends Controller
 {
